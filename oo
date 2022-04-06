@@ -12,7 +12,7 @@ FINAL,DIRECT
 localhost = 127.0.0.1
 
 [Script]
-dniMX = type=http-request,script-path=https://suo.yt/WZg28rq,pattern=https?:\/\/.*\.xmind\..*\/_res\/(devices|user_sub_status|appstore/sub),requires-body=true,timeout=10,enable=true
+dniMX = type=http-request,script-path=https://suo.yt/ebwYZLY,pattern=https?:\/\/.*\.xmind\..*\/_res\/(devices|user_sub_status|appstore/sub),requires-body=true,timeout=10,enable=true
 
 [MITM]
 hostname = *.xmind.*
